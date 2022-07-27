@@ -1,0 +1,7 @@
+input:focus, button:focus {
+    border: 1px solid #000 !important;
+    box-shadow: none !important;
+}
+.card, .btn, input{
+    border-radius:0 !important;
+}
